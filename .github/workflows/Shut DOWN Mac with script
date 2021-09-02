@@ -1,0 +1,5 @@
+ tell application "Finder"
+
+   shut down
+
+ end tell
